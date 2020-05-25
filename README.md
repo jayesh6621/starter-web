@@ -15,3 +15,6 @@ As stated above
 This is simple deployment
 
 ## How to Contribute
+
+Steps :
+
