@@ -12,4 +12,6 @@ As stated above
 
 ## Deployment
 
+This is simple deployment
+
 ## How to Contribute
