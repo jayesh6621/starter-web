@@ -16,5 +16,6 @@ This is simple deployment
 
 ## How to Contribute
 
-Steps :
+### Copyright
 
+copyright 2014
