@@ -8,6 +8,8 @@ This is example is too show diff parts if git repo and various commands using gi
 
 ## Purpose
 
+As stated above
+
 ## Deployment
 
 ## How to Contribute
