@@ -1,7 +1,9 @@
 # Starter Web Project
 
-## Introfuction
+## Introduction
 
 ## Purpose
+
+## Deployment
 
 ## How to Contribute
