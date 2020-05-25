@@ -16,6 +16,8 @@ This is simple deployment
 
 ## How to Contribute
 
+PLease fork this repo and issue PL for review
+
 ### Copyright
 
 copyright 2014
