@@ -1,7 +1,7 @@
 # Starter Web Project
 
-This is a simple website project
-
+This is a simple website project for showing how to use Git together.
+Adding rebaseing example
 ## Introduction
 
 This is example is too show diff parts if git repo and various commands using git proj
